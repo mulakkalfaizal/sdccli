@@ -2,6 +2,9 @@
 
 CLI tool will help set up or destroy a development environment for the Cassandra cluster and spark cluster
 
+## Demo
+![](https://github.com/mulakkalfaizal/sdccli/blob/main/spark-cassandra1.gif?raw=true)
+
 ## Prerequisites
 * Python3
 * Docker
