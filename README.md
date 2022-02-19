@@ -12,6 +12,7 @@ CLI tool will help set up or destroy a development environment for the Cassandra
 git clone git@github.com:mulakkalfaizal/sdccli.git
 cd sdccli
 python3 -m venv ./venv
+source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
