@@ -1,6 +1,6 @@
 # sdccli
 
-CLI tool will help set up or destroy a development environment for the Cassandra cluster and spark cluster
+CLI tool will help set up or destroy a development environment for the Cassandra cluster and spark cluster based on the user input such as node count , node memory limit , node cpu limit
 
 ## Demo
 ![](https://github.com/mulakkalfaizal/sdccli/blob/main/spark-cassandra1.gif?raw=true)
