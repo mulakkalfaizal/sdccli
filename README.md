@@ -147,7 +147,7 @@ Usage: sdccli.py cassandra [OPTIONS] SUBCOMMAND
 
       python3 sdccli.py cassandra create
       python3 sdccli.py cassandra create --cassandra_node 2
-      python3 sdccli.py cassandra create --cassandra_node 2 --cassandra_cpu=0.7 --cassandra_mem=200m
+      python3 sdccli.py cassandra create --cassandra_node 2 --cassandra_cpu=0.7 --cassandra_mem=2g
       python3 sdccli.py cassandra destroy
 
 Options:
