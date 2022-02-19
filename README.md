@@ -1,6 +1,11 @@
 # sdccli
 
-This CLI tool will help set up or destroy a development environment for the Cassandra cluster and spark cluster
+CLI tool will help set up or destroy a development environment for the Cassandra cluster and spark cluster
+
+## Prerequisites
+* Python3
+* Docker
+* Docker Compose
 
 ## Install
 ```shell script
